@@ -1,1 +1,1 @@
-![](hit.gif)
+<img src="hit.png" width="50%">
