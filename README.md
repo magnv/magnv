@@ -1,1 +1,1 @@
-![](gulp.gif)
+![](hit.gif)
